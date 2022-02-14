@@ -1,3 +1,6 @@
+# 원티드 프리온보딩 코스
+<br/>
+
 ## 1. 구현한 방법과 이유
 Create React App을 사용하였고 css로 styled-components를 사용하였습니다.<br/>
 css-in-js 스타일을 선호하고 styled-components가 적합하다고 생각하여 선택하게 되었습니다.<br/>
